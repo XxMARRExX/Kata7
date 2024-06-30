@@ -46,7 +46,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.App</mainClass>
+                            <mainClass>kata7.software.ulpgc.es.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
